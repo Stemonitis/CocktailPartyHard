@@ -1,0 +1,51 @@
+.barStool {
+  background-image: url("https://jooinn.com/images/wood-grain-4.jpg");
+  height: 100%;
+  width: 200px;
+  margin: 10px;
+  display: inline-block;
+  border-radius: 2px;
+  position: relative;
+}
+.drinkTitle {
+  color: beige;
+  font-size: 13px;
+}
+.drinkImage {
+  height: 150px;
+  margin-bottom: 10px;
+}
+.addToCart {
+  background-color: rgba(240, 248, 255, 0.157);
+  height: 20px;
+  width: 20px;
+  border-style: none;
+  border-radius: 2px;
+  color: beige;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.addToCart:hover {
+  background-color: rgba(240, 248, 255, 0.308);
+}
+.expand {
+  background-color: rgba(240, 248, 255, 0.157);
+  height: 20px;
+  width: 20px;
+  border-style: none;
+  border-radius: 2px;
+  color: beige;
+  position: absolute;
+  top: 20px;
+  right: 0;
+}
+.expand:hover {
+  background-color: rgba(240, 248, 255, 0.308);
+}
+#details {
+  color: beige;
+  font-size: 10px;
+  text-align: left;
+  padding: 5px;
+}
